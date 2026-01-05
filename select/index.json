@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "GOKAICHO",
+  "base_artist": "SKRYU",
+  "createdAt": "2026-01-05T01:30:25.954669Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOKAICHO",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_GOKAICHO_SKRYU.txt"
+    }
+  ]
+}
